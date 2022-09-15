@@ -1,0 +1,43 @@
+html{
+     font-family: 'Mukta', sans-serif;
+}
+h1{
+     color:deepskyblue;
+     font-size: 4rem;
+}
+p{
+     color: black;
+     text-align: center;
+}
+header{
+     background-color: black;
+     background-size: auto;
+     padding: 3rem 2rem;
+     
+     text-align: center;
+}
+h2{
+     text-align: center;
+     background-color: aquamarine;
+}
+section article{
+     background-color: aquamarine  ;
+     padding: 3rem 2rem;
+    
+}
+.imagen{
+text-align: center;
+cursor: pointer;
+}
+.imagen:hover{
+     box-shadow: 0 0.1rem 0.4rem black;
+}
+footer{
+     background-color: black;
+     padding: 3rem;
+     
+}
+footer a{
+     color: turquoise;
+     cursor: pointer;
+}
